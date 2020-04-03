@@ -4,46 +4,47 @@ description: Nieuwe ervaring voor klantenondersteuning van Adobe
 seo-description: Nieuwe ervaring voor klantenondersteuning van Adobe
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 translation-type: tm+mt
-source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
+source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
 
 ---
 
 
 # Nieuwe ervaring voor klantenondersteuning van Adobe
 
-Wij geven om onze klanten en werken eraan om het gemakkelijker te maken om hulp van de Klantenondersteuning van Adobe te krijgen wanneer onze klanten hulp nodig hebben - om te beginnen met Adobe Experience Manager en Campagneproducten. Onze visie is om de supportervaring te stroomlijnen door over te schakelen naar een moderne toegangsportaal, de ondersteuningsportal van Adobe Admin Console. We zijn van plan deze wijzigingen in mei 2020 uit te voeren.  Uw organisatie heeft als enige toegang tot de klantenondersteuning van Adobe. een groter zicht in uw de dienstgeschiedenis via een gemeenschappelijk ingangsportaal hebben; en vraag hulp via telefoon, web en chat via één portaal.
+## We zijn blij dat we de start van het ondersteuningsportaal voor Adobe Admin Console in april/mei 2020 aankondigen!
 
-Wij zullen uw organisatie meer informatie blijven verstrekken aangezien wij dichter aan de uitrol worden.
+Zoals eerder is gedeeld, werken we eraan om de interactie met de klantenondersteuning van Adobe te verbeteren, te beginnen met Adobe Experience Manager en Campagneproducten. Onze visie is om de ervaring met ondersteuning te stroomlijnen door over te stappen naar één ingangspunt met de Adobe Admin Console. Uw organisatie heeft eenvoudig toegang tot de Klantenondersteuning van Adobe als deze eenmaal actief is. een groter zicht in uw de dienstgeschiedenis door een gemeenschappelijk systeem over producten te hebben; en vraag hulp via telefoon, web en chat via dit enkele portaal.
 
 ## Meer informatie
 
-In februari en maart zal Adobe zowel de nieuwe Beheerders van het Systeem van de Steun als Gebruikers van de Steun in dit portaal opzetten.  Als uit onze gegevens blijkt dat u momenteel als beheerder van het Systeem van de Steun in de Console van Admin van Adobe - of - uw naam op het aankoopcontract als klantencontact van Adobe voor het opstellen van de Campagne van Adobe en/of de Manager van de Ervaring van Adobe binnen uw organisatie was vermeld, zult u opstelling als Beheerder van het Systeem van de Steun voor uw organisatie zijn.
+* U wordt onderdeel van de nieuwe ervaring op 27 april of 11 mei
+* Klanten ontvangen 2 e-mails van Adobe met aanvullende instructies (10 dagen voor en op de dag van Go-Live) om u te waarschuwen op welke dag u kunt beginnen met het verzenden van tickets
+* Na 11 mei worden de oude systemen voor het beheer van klantengevallen van Adobe Experience Manager en Campagne uit bedrijf genomen en worden klanten omgeleid naar deze pagina voor aanvullende instructies
+* Klantenzaken die op het moment van Go-Live open waren, worden naar het nieuwe systeem gemigreerd om de sluiting te vergemakkelijken
 
-Systeembeheerders van ondersteuning fungeren als supergebruikers in de beheerconsole en ontvangen e-mailberichten die door het systeem worden gegenereerd wanneer een nieuwe supportgebruiker wordt gemaakt.  Bovendien kunnen zij:
+## Handelingen van de klant aangevraagd
 
-* Creeer/verwijder steungebruikers in het portaal en beheer toegangsrollen
-* Profiteer van hulpprogramma&#39;s voor hoofdletterbeheer, zodat u gemakkelijker met de klantenondersteuning van Adobe door ondersteuningszaken kunt gaan
-* Geniet van eenvoudig chatgesprekken met de klantenondersteuning van Adobe
+1. De inhoud van de beheerconsole activeren controleren [Aan de slag](https://helpx.adobe.com/enterprise/get-started.html) en [Gebruikershandleiding](https://helpx.adobe.com/enterprise/managing/user-guide.html)
+1. Meld u aan bij de [beheerconsole](https://adminconsole.adobe.com/) en controleer of u toegang hebt
+1. Als u een systeembeheerder bent, bekijkt en valideert u de gebruikers van de ondersteuning binnen uw organisatie voor nauwkeurigheid (deze pagina&#39;s helpen: Gebruikers [](https://helpx.adobe.com/enterprise/using/users.html) beheren en uw accounts [voor teams](https://helpx.adobe.com/enterprise/using/accounts.html)beheren)
 
-## Wat verwacht u in de komende maanden?
+## Hebt u hulp nodig?
 
-### Februari - de Opstelling van de Gebruiker
+Als u na Go-Live problemen hebt en u zich niet kunt aanmelden bij het nieuwe programma, hebt u de volgende opties:
 
-* Adobe aan opstelling bekende Admin van het Systeem; Contacten en bekende Gebruikers van de Steun in nieuw systeem binden
-* Door het systeem gegenereerde e-mails verzonden - gebruikers hebben hun installatie en het systeem zijn live voor het maken/valideren van gebruikers
+### Optie 1: E-mail
 
-### Maart - Gebruikersvalidatie
+E-mail ons op [customercare@adobe.com](mailto:customercare@adobe.com) en omvat:
 
-* Adobe neemt contact op met Systeembeheerder/contractcontactpersonen met de volgende stappenSysteembeheerder/contractcontactpersonen om de bestaande ondersteuningsgebruikers te valideren en ontbrekende supportgebruikers in het nieuwe systeem te maken
+* Contactgegevens: Naam, e-mailadres, telefoon
+* Bedrijfsnaam
+* Adobe-product
+* Probleemprioriteit
+* Korte beschrijving van de kwestie
 
-### April - Enablement
+### Optie 2: Vóór 11 mei
 
-* Adobe biedt leermateriaal aan alle gebruikers van het supportsysteem
-* Systeembeheerder/contractcontactpersonen om de gebruikersinstelling en -rollen voor ondersteuning te voltooien
+Vóór 11 mei kunt u nog het erfenis Extranet [van de](https://support.neolane.net/webApp/extranetLogin) Campagne of de systemen van het de gevallenbeheer van de Manager van de [Ervaring](https://daycare.day.com/home.html) gebruiken.  Na 11 mei wordt u omgeleid naar de [beheerconsole](https://adminconsole.adobe.com/) , omdat deze systemen dan uit bedrijf worden genomen.
 
-### Mei - Starten!
-
-* Adobe kondigt de introductie van een nieuw systeem aan
-* Klanten beginnen met het gebruik van het nieuwe systeem
 
 Neem voor vragen over deze e-mail contact met ons op via [customercare@adobe.com](mailto:customercare@adobe.com).
