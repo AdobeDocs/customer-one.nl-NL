@@ -4,7 +4,7 @@ description: Nieuwe ervaring voor klantenondersteuning van Adobe
 seo-description: Nieuwe ervaring voor klantenondersteuning van Adobe
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 translation-type: tm+mt
-source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
+source-git-commit: c477d17b10b9699dda43136d05d4455b89ed69cf
 
 ---
 
@@ -32,9 +32,9 @@ Zoals eerder is gedeeld, werken we eraan om de interactie met de klantenonderste
 
 Als u na Go-Live problemen hebt en u zich niet kunt aanmelden bij het nieuwe programma, hebt u de volgende opties:
 
-### Optie 1: E-mail
+### Optie 1: Een ticket verzenden
 
-E-mail ons op [customercare@adobe.com](mailto:customercare@adobe.com) en omvat:
+Neem contact met ons op door een ticket te registreren bij de [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) en neem hieronder de volgende gegevens op:
 
 * Contactgegevens: Naam, e-mailadres, telefoon
 * Bedrijfsnaam
@@ -47,4 +47,4 @@ E-mail ons op [customercare@adobe.com](mailto:customercare@adobe.com) en omvat:
 Vóór 11 mei kunt u nog het erfenis Extranet [van de](https://support.neolane.net/webApp/extranetLogin) Campagne of de systemen van het de gevallenbeheer van de Manager van de [Ervaring](https://daycare.day.com/home.html) gebruiken.  Na 11 mei wordt u omgeleid naar de [beheerconsole](https://adminconsole.adobe.com/) , omdat deze systemen dan uit bedrijf worden genomen.
 
 
-Neem voor vragen over deze e-mail contact met ons op via [customercare@adobe.com](mailto:customercare@adobe.com).
+Voor vragen over deze e-mail, gelieve ons te contacteren door een kaartje van de Liga [van de](https://experienceleague.adobe.com/?support-solution=General#support)Ervaring te registreren.
