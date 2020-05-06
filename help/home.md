@@ -4,9 +4,9 @@ description: Nieuwe ervaring voor klantenondersteuning van Adobe
 seo-description: Nieuwe ervaring voor klantenondersteuning van Adobe
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 translation-type: tm+mt
-source-git-commit: e10515e6a7c177b5a93fda130da5517bdd374031
+source-git-commit: 15f3575335be07de0cf6c2926b5a05f8253f21ef
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,9 @@ ht-degree: 0%
 
 # Nieuwe ervaring voor klantenondersteuning van Adobe
 
-## We zijn erg blij om aan te kondigen dat Adobe Customer Support op 11 mei 2020 live is!
+## Ondersteuningstips voor beheerconsole
+
+We zijn erg blij om aan te kondigen dat Adobe Customer Support op 11 mei 2020 live is!
 
 Ondersteuningstaarten kunnen nu worden verzonden via de [beheerconsole](https://adminconsole.adobe.com/)
 
@@ -28,13 +30,16 @@ Zoals eerder is gedeeld, werken we eraan om de interactie met de klantenonderste
 
 ## Hoe zit het met de verouderde systemen?
 
-### Met ingang van 11 mei kunnen nieuwe Tickets/cases niet meer worden ingediend in oudere systemen.  De [beheerconsole](https://adminconsole.adobe.com/) wordt gebruikt om nieuwe tickets/kwesties te verzenden.
+Met ingang van 11 mei kunnen nieuwe Tickets/cases niet meer worden ingediend in oudere systemen.  De [beheerconsole](https://adminconsole.adobe.com/) wordt gebruikt om nieuwe tickets/kwesties te verzenden.
 
-### Bestaande Tickets/cases:
+### Bestaande Tickets/tassen
+
 * Tussen 11 mei en 20 mei zullen de oude systemen beschikbaar blijven om bestaande tickets/zaken te voltooien.
 * Vanaf 20 mei zal het ondersteuningsteam resterende open gevallen migreren van de oude systemen naar de nieuwe ervaring met ondersteuning.  U ontvangt een e-mail met informatie over hoe u contact kunt opnemen met de ondersteuningsafdeling om deze zaken te kunnen blijven volgen.
 
-### Geschiedenis van kwestie: Gesloten hoofdlettergeschiedenis wordt zichtbaar voor het ondersteuningspersoneel van Adobe.  Raadpleeg de Help voor hulp bij een gesloten zaak als u hulp nodig hebt. hieronder.
+### Geschiedenis van kwestie
+
+Gesloten hoofdlettergeschiedenis wordt zichtbaar voor het ondersteuningspersoneel van Adobe.  Raadpleeg de Help voor hulp bij een gesloten zaak als u hulp nodig hebt. hieronder.
 
 ## Hebt u hulp nodig?
 
@@ -53,6 +58,5 @@ Neem contact met ons op door een ticket te registreren bij de [Experience League
 ### Optie 2: Vóór 11 mei
 
 Vóór 11 mei kunt u nog het erfenis Extranet [van de](https://support.neolane.net/webApp/extranetLogin) Campagne of de systemen van het de gevallenbeheer van de Manager van de [Ervaring](https://daycare.day.com/home.html) gebruiken.  Na 11 mei wordt u omgeleid naar de [beheerconsole](https://adminconsole.adobe.com/) omdat deze systemen geen nieuwe gevallen accepteren.
-
 
 Voor vragen over deze e-mail, gelieve ons te contacteren door een kaartje van de Liga [van de](https://experienceleague.adobe.com/?support-solution=General#support)Ervaring te registreren.
