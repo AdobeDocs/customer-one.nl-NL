@@ -1,19 +1,22 @@
 ---
 title: AEM - nieuwe ervaring met ondersteuning beschikbaar
-seo-title: Adobe Experience Manager - Nieuwe ervaring voor ondersteuning
-description: Adobe Experience Manager - Nieuwe ervaring voor ondersteuning
-seo-description: Adobe Experience Manager - Nieuwe ervaring voor ondersteuning
+seo-title: 'Adobe Experience Manager - Nieuwe supportervaring:'
+description: 'Adobe Experience Manager - Nieuwe supportervaring:'
+seo-description: 'Adobe Experience Manager - Nieuwe supportervaring:'
 translation-type: tm+mt
-source-git-commit: aa0606f8a5f1134478cb4b081e03c1bea3e151e7
+source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
+workflow-type: tm+mt
+source-wordcount: '283'
+ht-degree: 0%
 
 ---
 
 
-# Adobe Experience Manager - Nieuwe ervaring voor ondersteuning
+# Adobe Experience Manager - Nieuwe supportervaring:
 
 **21 oktober 2019**
 
-We werken aan enkele belangrijke verbeteringen in de supportervaring voor onze klanten van Adobe Experience Manager en Adobe Campaign. Deze veranderingen, die wij van plan zijn om in april/mei 2020 uit te voeren, zullen uw organisatie toestaan om tot uw de dienstgeschiedenis toegang te hebben [!DNL Adobe Customer Support] en grotere zichtbaarheid te verstrekken via een gemeenschappelijk ingangsportaal.
+We werken aan een aantal belangrijke verbeteringen in de supportervaring voor onze Adobe Experience Manager- en Adobe Campaign-klanten. Deze veranderingen, die wij van plan zijn om in april/mei 2020 uit te voeren, zullen uw organisatie toestaan om tot uw de dienstgeschiedenis toegang te hebben [!DNL Adobe Customer Support] en grotere zichtbaarheid te verstrekken via een gemeenschappelijk ingangsportaal.
 
 Wij zullen uw organisatie meer informatie blijven verstrekken aangezien wij dichter bij de uitrol komen.
 
@@ -30,7 +33,9 @@ Als Admin van het Systeem, hebt u toegang tot [!DNL Adobe Admin Console Support 
 * Toegang voor gebruikers van ondersteuning verlenen tot de portal
 
 >[!NOTE]
->Bevestig dat u deze rol accepteert (of een alternatief contactpunt opgeeft) als System Admin for Adobe Experience Manager-producten van uw organisatie door het **[!DNL System Admin Bevestigingsformulier][uiterlijk op 4 november 2019 te](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)voltooien en in te dienen**.
+>
+>Bevestig dat u deze rol accepteert (of een alternatief aanspreekpunt opgeeft) als System Admin for Adobe Experience Manager products van uw organisatie door het **[!DNL System Admin Bevestigingsformulier][te](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)voltooien en in te dienen tegen 4 november 2019**.
+>
 >Door dit formulier in te vullen, zorgt het ervoor dat de juiste referenties worden toegewezen aan de aangewezen systeembeheerder van uw organisatie.
 
 Er wordt een e-mailbevestiging verzonden na ontvangst van het [[!DNL-bevestigingsformulier voor systeembeheer]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6).
