@@ -1,45 +1,48 @@
 ---
-title: Bekendmaking van de nieuwe ervaring van de Klantenondersteuning van Adobe
+title: Bekendmaking van de nieuwe Adobe-ervaring voor klantenondersteuning
 description: Eerste klantenmededeling voor nieuwe steunervaring
 translation-type: tm+mt
 source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
+workflow-type: tm+mt
+source-wordcount: '387'
+ht-degree: 0%
 
 ---
 
 
-# Nieuwe ervaring voor klantenondersteuning van Adobe
+# Nieuwe Adobe Customer Support-ervaring
 
-Wij geven om onze klanten en werken eraan om het gemakkelijker te maken om hulp van de Klantenondersteuning van Adobe te krijgen wanneer onze klanten hulp nodig hebben - om te beginnen met Adobe Experience Manager en Campagneproducten. Onze visie is om de supportervaring te stroomlijnen door over te schakelen naar een moderne toegangsportaal, de ondersteuningsportal van Adobe Admin Console. We zijn van plan deze wijzigingen in mei 2020 uit te voeren. Uw organisatie heeft als enige toegang tot de klantenondersteuning van Adobe. een groter zicht in uw de dienstgeschiedenis via een gemeenschappelijk ingangsportaal hebben; en vraag hulp via telefoon, web en chat via één portaal.
+Wij geven om onze klanten en werken eraan om het gemakkelijker te maken om hulp van de klantenondersteuning van Adobe te krijgen wanneer onze klanten hulp nodig hebben - om te beginnen met Adobe Experience Manager en Campagneproducten. Onze visie is om de ervaring met ondersteuning te stroomlijnen door over te stappen naar een modern toegangsportaal, het Adobe Admin Console Support Portal. We zijn van plan deze wijzigingen in mei 2020 uit te voeren. Uw organisatie heeft toegang tot de Klantenondersteuning van Adobe als deze eenmaal actief is. meer zichtbaarheid in uw servicegeschiedenis te krijgen via een gemeenschappelijk toegangsportaal; en vraag hulp via telefoon, web en chat via één portaal.
 
 ## Meer informatie
 
-In februari en maart zal Adobe zowel de nieuwe Beheerders van het Systeem van de Steun als Gebruikers van de Steun in dit portaal opzetten. Als uit onze gegevens blijkt dat u momenteel als beheerder van het Systeem van de Steun in de Console van Admin van Adobe - of - uw naam op het aankoopcontract als klantencontact van Adobe voor het opstellen van de Campagne van Adobe en/of de Manager van de Ervaring van Adobe binnen uw organisatie was vermeld, zult u opstelling als Beheerder van het Systeem van de Steun voor uw organisatie zijn.
-Systeembeheerders van ondersteuning fungeren als supergebruikers in de beheerconsole en ontvangen e-mailberichten die door het systeem worden gegenereerd wanneer een nieuwe supportgebruiker wordt gemaakt. Bovendien kunnen zij:
+In februari en maart zal Adobe zowel de nieuwe Beheerders van het Systeem van de Steun als Gebruikers van de Steun in dit portaal opzetten. Als onze verslagen erop wijzen dat u momenteel als Beheerder van het Systeem van de Steun in de Admin Console van Adobe - of - uw naam op het aankoopcontract als klantencontact van Adobe voor de plaatsing van Adobe Campaign en/of Adobe Experience Manager binnen uw organisatie handelde, zult u opstelling als Beheerder van het Systeem van de Steun voor uw organisatie zijn.
+Systeembeheerders van ondersteuning fungeren als supergebruikers in de Admin Console en zien e-mails die door het systeem worden gegenereerd wanneer een nieuwe supportgebruiker wordt gemaakt. Bovendien kunnen zij:
 
 * Creeer/verwijder steungebruikers in het portaal en beheer toegangsrollen
-* Profiteer van hulpprogramma&#39;s voor hoofdletterbeheer, zodat u gemakkelijker met de klantenondersteuning van Adobe door ondersteuningszaken kunt gaan
+* Profiteer van hulpprogramma&#39;s voor casebeheer die het gemakkelijker maken om met ondersteuning van Adobe Customer Support door te gaan
 * Geniet van eenvoudig chatgesprekken met de klantenondersteuning van Adobe
 
 ## Wat verwacht u in de komende maanden?
 
 ### Februari - de Opstelling van de Gebruiker
 
-* Adobe aan opstelling bekende Admin van het Systeem; Contacten en bekende Gebruikers van de Steun in nieuw systeem binden
+* Adobe om bekende systeembeheerder in te stellen; Contacten en bekende Gebruikers van de Steun in nieuw systeem binden
 * Door het systeem gegenereerde e-mails verzonden - gebruikers hebben hun installatie en het systeem zijn live voor het maken/valideren van gebruikers
 
 
 ### Maart - Gebruikersvalidatie
 
-* Adobe neemt contact op met Systeembeheerder/contractcontactpersonen met de volgende stappen Systeembeheerder/contractcontactpersonen om de bestaande ondersteuningsgebruikers te valideren en ontbrekende supportgebruikers in het nieuwe systeem te maken
+* Adobe om contact op te nemen met Systeembeheerder/contractcontactpersonen met de volgende stappen Systeembeheerder/contractcontactpersonen om de bestaande supportgebruikers te valideren en ontbrekende supportgebruikers in een nieuw systeem te maken
 
 ### April - Enablement
 
-* Adobe biedt leermateriaal aan alle gebruikers van het supportsysteem
+* Adobe om leermateriaal aan alle gebruikers van het steunsysteem te verstrekken
 * Systeembeheerder/contractcontactpersonen om de gebruikersinstelling en -rollen voor ondersteuning te voltooien
 
 ### Mei - Starten!
 
-* Adobe kondigt de introductie van een nieuw systeem aan
+* Adobe om de start van het nieuwe systeem aan te kondigen
 * Klanten beginnen met het gebruik van het nieuwe systeem
 
-Neem voor vragen over deze e-mail contact met ons op via [customercare@adobe.com](mailto:customercare@adobe.com).
+Voor vragen over deze e-mail, gelieve ons te contacteren op [customercare@adobe.com](mailto:customercare@adobe.com).
