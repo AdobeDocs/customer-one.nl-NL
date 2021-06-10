@@ -5,18 +5,16 @@ description: Nieuwe Adobe Customer Support-ervaring
 seo-description: Nieuwe Adobe Customer Support-ervaring
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 357138a560041a9832cfe8a4f61ec8724b73ba41
+source-git-commit: 4c8b47631dee3b3a4acb438dfe37ca336a8c99a8
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '768'
 ht-degree: 0%
 
 ---
 
-# Nieuwe Adobe Customer Support-ervaring
+# Adobe Klantenondersteuning
 
 ## Tickets voor ondersteuning van Admin Consoles
-
-We zijn erg blij om aan te kondigen dat de Adobe Customer Support Experience live is vanaf 11 mei 2020!
 
 Ondersteuningstaarten kunnen nu worden verzonden via de [Admin Console](https://adminconsole.adobe.com/). Voor instructies over hoe te om een steunkaartje voor te leggen, herzie de sectie voor [het voorleggen van een steunkaartje](#submit-ticket).
 
@@ -46,7 +44,7 @@ Er wordt een dialoogvenster weergegeven waarin u een type uitgave kunt selectere
 
 ![Probleem selecteren](./assets/select-case-type.png)
 
-Het dialoogvenster **[!UICONTROL Create Case ]** wordt weergegeven. U wordt gevraagd om bepaalde informatie zoals het product, de prioriteit, de beschrijving te verstrekken, en om het even welke screenshots bij te voegen helpen de kwestie beschrijven. Selecteer **[!UICONTROL Next]** om door te gaan.
+Het dialoogvenster **[!UICONTROL Create Case]** wordt weergegeven. U wordt gevraagd om bepaalde informatie zoals het product, de prioriteit, de beschrijving te verstrekken, en om het even welke screenshots bij te voegen helpen de kwestie beschrijven. Selecteer **[!UICONTROL Next]** om door te gaan.
 
 ![hoofdletter maken](./assets/create_case.png)
 
