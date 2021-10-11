@@ -2,12 +2,12 @@
 keywords: ondersteuning van Experience Platforms;platformondersteuning;ondersteuning van intelligente services; klantenondersteuning; toewijzingssteun; rtcdp-ondersteuning; ondersteuningsticket verzenden;klantenondersteuning
 title: Adobe Experience Cloud Customer One for Enterprise
 description: Nieuwe Adobe Customer Support-ervaring
-seo-description: Nieuwe Adobe Customer Support-ervaring
+seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 4c8b47631dee3b3a4acb438dfe37ca336a8c99a8
+source-git-commit: f7c0d0ba6f3ea2bcf5b4dfd9fd138a3d011162b7
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Ondersteuningstaarten kunnen nu worden verzonden via de [Admin Console](https://
 
 Zoals eerder gedeeld, werken we aan een betere interactie met de klantenondersteuning van Adobe, om te beginnen met de producten Adobe Experience Manager en Campagne. Onze visie is om de supportervaring te stroomlijnen door over te stappen naar één toegangspunt, met de Adobe Admin Console. Uw organisatie heeft eenvoudig toegang tot de Adobe Klantenondersteuning. een groter zicht in uw de dienstgeschiedenis door een gemeenschappelijk systeem over producten te hebben; en vraag hulp via telefoon, Web, en praatje door één enkel portaal.
 
-## Hoe te om een Admin Console steunkaartje {#submit-ticket} voor te leggen
+## Hoe te om een Admin Console steunkaartje voor te leggen {#submit-ticket}
 
 Om een steunkaartje in [Admin Console](https://adminconsole.adobe.com/) voor te leggen, moet u de rol van Admin van de Steun hebben die door een Beheerder van het Systeem wordt toegewezen. Alleen een systeembeheerder in uw organisatie kan deze rol toewijzen. Het product, het Profiel van het Product, en andere administratieve rollen kunnen niet de de adminrol van de Steun toewijzen en kunnen niet de **[!UICONTROL Create Case]** optie bekijken die wordt gebruikt om een steunkaartje voor te leggen. Voor meer informatie raadpleegt u de [Enterprise- en teamklant](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)-documentatie.
 
@@ -65,26 +65,3 @@ Met ingang van 11 mei kunnen nieuwe Tickets/cases niet meer worden ingediend in 
 * Tussen 11 mei en 20 mei zullen de oude systemen beschikbaar blijven om bestaande tickets/zaken te voltooien.
 * Vanaf 20 mei zal het ondersteuningsteam resterende open gevallen migreren van de oude systemen naar de nieuwe ervaring met ondersteuning.  U ontvangt een e-mail met informatie over hoe u contact kunt opnemen met de ondersteuningsafdeling om deze zaken te kunnen blijven volgen.
 
-### Geschiedenis van kwestie
-
-Gesloten hoofdlettergeschiedenis is zichtbaar voor het ondersteuningspersoneel van Adobe.  Raadpleeg de Help voor hulp bij een gesloten zaak als u hulp nodig hebt. hieronder.
-
-## Hebt u hulp nodig?
-
-Als u na Go-Live problemen hebt en u zich niet kunt aanmelden bij het nieuwe programma, hebt u de volgende opties:
-
-### Optie 1: Een ticket verzenden
-
-Neem contact met ons op door een ticket te registreren bij [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) en neem de volgende gegevens op:
-
-* Contactgegevens: Naam, e-mailadres, telefoon
-* Bedrijfsnaam
-* Adobe Product in eigendom
-* Probleemprioriteit
-* Korte beschrijving van de kwestie
-
-### Optie 2: Vóór 11 mei
-
-Vóór 11 mei kunt u de erfenis [Extranet van de Campagne ](https://support.neolane.net/webApp/extranetLogin) of [Experience Manager Daycare](https://daycare.day.com/home.html) casebeheersystemen nog gebruiken.  Na 11 mei wordt u omgeleid naar [Admin Console](https://adminconsole.adobe.com/) omdat deze systemen geen nieuwe gevallen accepteren.
-
-Voor vragen over deze e-mail, gelieve ons te contacteren door een kaartje van [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) te registreren.
