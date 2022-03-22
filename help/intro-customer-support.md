@@ -1,14 +1,15 @@
 ---
-title: Bekendmaking van de nieuwe Adobe-ervaring voor klantenondersteuning
+title: Bekendmaking van de Nieuwe Ervaring van de Klantenondersteuning van Adobe (vorige aankondiging)
 description: Eerste klantenmededeling voor nieuwe steunervaring
-translation-type: tm+mt
-source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
+hide: true
+hidefromtoc: true
+exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
+source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
-
 
 # Nieuwe Adobe Customer Support-ervaring
 
@@ -45,4 +46,4 @@ Systeembeheerders van ondersteuning fungeren als supergebruikers in de Admin Con
 * Adobe om de start van het nieuwe systeem aan te kondigen
 * Klanten beginnen met het gebruik van het nieuwe systeem
 
-Voor vragen over deze e-mail, gelieve ons te contacteren op [customercare@adobe.com](mailto:customercare@adobe.com).
+Voor vragen over deze e-mail kunt u contact met ons opnemen op [customercare@adobe.com](mailto:customercare@adobe.com).

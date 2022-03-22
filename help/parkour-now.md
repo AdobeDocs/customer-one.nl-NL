@@ -1,12 +1,12 @@
 ---
-title: Bekendmaking van de nieuwe Adobe-ervaring voor klantenondersteuning
+title: Nieuwe Adobe Customer Support-ervaring
 description: Communicatie van de klant voor nieuwe steunervaring
 hide: true
 hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
-source-git-commit: 55c49665c29ad3a5ac6613ddee19368dbf31e3f1
+source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
