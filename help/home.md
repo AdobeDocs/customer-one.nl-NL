@@ -5,9 +5,9 @@ description: Nieuwe Adobe Customer Support-ervaring
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: b2f78f59e8dd531f723bb488dd84a38bfd0cd10a
+source-git-commit: 22c446a683e21574c3db4b24879a1d072cdd5a3d
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '639'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,19 @@ ht-degree: 0%
 Ondersteuningstaarten kunnen nu worden verzonden via de [Admin Console](https://adminconsole.adobe.com/). Voor instructies over hoe te om een steunkaartje voor te leggen, herzie de sectie voor [het indienen van een steunkaartje](#submit-ticket).
 
 We werken eraan om de interactie met de klantenondersteuning van Adobe te verbeteren. Onze visie is om de supportervaring te stroomlijnen door over te stappen naar één toegangspunt, met de Adobe Admin Console. Uw organisatie heeft eenvoudig toegang tot de Adobe Klantenondersteuning. een groter zicht in uw de dienstgeschiedenis door een gemeenschappelijk systeem over producten te hebben; en vraag hulp via telefoon, Web, en praatje door één enkel portaal.
+
+## Hulp nodig met het nieuwe Platform van de Steun?
+
+Wij bieden een reeks online vergaderingen aan waarin klanten hun vragen over het nieuwe steunproces kunnen voorleggen. Selecteer een of meer verbindingen:
+
+| Detail | Dag | Datum | Registratiekoppelingen |
+|--- |--- |--- |--- |
+| [7 april 2008](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) | Dijen | 7 apr. | <https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85> |
+| [7 april 2005](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) | Dijen | 7 apr. | <https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C> |
+| [20 april om 8.00 uur PT](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) | Wed | 20 apr. | <https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2> |
+| [20 april om 17.00 uur PT](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) | Wed | 20 feb. | <https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16> |
+| [21 april om 8.00 uur PT](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) | Dijen | 21 apr. | <https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98> |
+| [21 april om 17.00 uur PT](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) | Dijen | 21 apr. | <https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446> |
 
 ## Hoe te om een Admin Console steunkaartje voor te leggen {#submit-ticket}
 
