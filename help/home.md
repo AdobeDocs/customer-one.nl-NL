@@ -5,9 +5,9 @@ description: Nieuwe Adobe Customer Support-ervaring
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
+source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -37,13 +37,13 @@ Wij bieden een reeks online vergaderingen aan waarin klanten hun vragen over het
 
 ## Hoe te om een Admin Console steunkaartje voor te leggen {#submit-ticket}
 
-Om een ondersteuningsticket in te dienen [Admin Console](https://adminconsole.adobe.com/), moet u de rol van Admin van de Steun hebben die door een Beheerder van het Systeem wordt toegewezen. Alleen een systeembeheerder in uw organisatie kan deze rol toewijzen. Het product, het Profiel van het Product, en andere administratieve rollen kunnen niet de de adminrol van de Steun toewijzen en kunnen niet bekijken **[!UICONTROL Create Case]** optie gebruikt om een steunkaartje voor te leggen. Ga voor meer informatie naar de [klantenservice voor bedrijven en teams](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html) documentatie.
+Om een ondersteuningsticket in te dienen [Admin Console](https://adminconsole.adobe.com/), moet u de rol van Admin van de Steun hebben die door een Beheerder van het Systeem wordt toegewezen. Alleen een systeembeheerder in uw organisatie kan deze rol toewijzen. Het product, het Profiel van het Product, en andere administratieve rollen kunnen niet de de adminrol van de Steun toewijzen en kunnen niet bekijken **[!UICONTROL Create Case]** optie gebruikt om een steunkaartje voor te leggen. Ga voor meer informatie naar de [klantenservice voor bedrijven en teams](customer-care.md) documentatie.
 
 ### Wijs de rol van beheerder van de Steun toe
 
 De rol van steunbeheerder is een niet administratieve rol die toegang tot steun-verwante informatie heeft. Ondersteuningsbeheerders kunnen probleemrapporten weergeven, maken en beheren.
 
-Om de rol van beheerder van de Steun toe te wijzen, volg [de beheerdersrol voor ondernemingen bewerken](https://helpx.adobe.com/enterprise/using/admin-roles.html#add-admin-teams) instructies in de documentatie met administratieve rollen. Merk op dat slechts een systeembeheerder voor uw organisatie deze rol kan toewijzen. Ga voor meer informatie over de beheershiërarchie naar de [administratieve taken](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html) documentatie.
+Om de rol van beheerder van de Steun toe te wijzen, volg [de beheerdersrol voor ondernemingen bewerken](admin-roles.md#add-admin-teams) instructies in de documentatie met administratieve rollen. Merk op dat slechts een systeembeheerder voor uw organisatie deze rol kan toewijzen. Ga voor meer informatie over de beheershiërarchie naar de [administratieve taken](admin-roles.md) documentatie.
 
 ### Een ondersteuningsticket maken met Admin Console
 
