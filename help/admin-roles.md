@@ -1,13 +1,13 @@
 ---
 title: Administratieve rollen
 description: Met de Adobe Admin Console kunnen organisaties een flexibele beheershiërarchie definiëren die fijngeoriënteerd beheer van de toegang tot en het gebruik van Adobe-producten mogelijk maakt.
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
+source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # Administratieve rollen
 
@@ -45,7 +45,7 @@ _Hiërarchie van beheerrollen_
 
 Voor een gedetailleerde lijst van toestemmingen en voorrechten voor elke adminrol, zie [Machtigingen](#enterprise-admins-permissions-matrix).
 
-## Een bedrijfsbeheerder toevoegen
+## Een beheerdersrol voor ondernemingen toevoegen {#add-enterprise-role}
 
 Van toepassing op: Adobe-zakelijke klanten.
 

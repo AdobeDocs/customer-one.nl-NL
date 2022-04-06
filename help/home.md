@@ -5,7 +5,7 @@ description: Nieuwe Adobe Customer Support-ervaring
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
 source-wordcount: '630'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Om een ondersteuningsticket in te dienen [Admin Console](https://adminconsole.ad
 
 De rol van steunbeheerder is een niet administratieve rol die toegang tot steun-verwante informatie heeft. Ondersteuningsbeheerders kunnen probleemrapporten weergeven, maken en beheren.
 
-Om de rol van beheerder van de Steun toe te wijzen, volg [de beheerdersrol voor ondernemingen bewerken](admin-roles.md#add-admin-teams) instructies in de documentatie met administratieve rollen. Merk op dat slechts een systeembeheerder voor uw organisatie deze rol kan toewijzen. Ga voor meer informatie over de beheershiërarchie naar de [administratieve taken](admin-roles.md) documentatie.
+Om de rol van beheerder van de Steun toe te wijzen, volg [de beheerdersrol voor ondernemingen bewerken](admin-roles.md#add-enterprise-role) instructies in de documentatie met administratieve rollen. Merk op dat slechts een systeembeheerder voor uw organisatie deze rol kan toewijzen. Ga voor meer informatie over de beheershiërarchie naar de [administratieve taken](admin-roles.md) documentatie.
 
 ### Een ondersteuningsticket maken met Admin Console
 
