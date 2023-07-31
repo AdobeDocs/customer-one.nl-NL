@@ -5,9 +5,9 @@ description: Nieuwe Adobe Customer Support-ervaring
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
+source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -48,8 +48,8 @@ Om een rol van Admin van de Steun aan een gebruiker toe te wijzen (laat een gebr
 
 1. Kies een van de volgende twee opties:
 
-   * Optie 1: **[!UICONTROL Basic support administrator]**. Selecteer deze optie als u de gebruikersondersteuning toegang wilt geven tot alle oplossingen (behalve Marketo).
-   * Optie 2: **[!UICONTROL Product support administrator]**: Selecteer deze optie voor Marketo-ondersteuning. Selecteer welke Marketo-instanties de gebruiker toegang geven.
+   * Optie 1: **[!UICONTROL Basic support administrator]**. Selecteer deze optie als u de gebruikerssteun toegang voor alle oplossingen (behalve Marketo Engage) wilt geven.
+   * Optie 2: **[!UICONTROL Product support administrator]**: Selecteer deze optie voor ondersteuning van Marketo Engage. Selecteer welke Marketo Engage-instanties de gebruiker toegang moeten geven.
 
    ![Beheerdersrechten bewerken Marketo](assets/edit-admin-rights-advanced.png)
 
