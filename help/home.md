@@ -5,9 +5,9 @@ description: Nieuwe Adobe Customer Support-ervaring
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '699'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ De gebruiker ontvangt een e-mailuitnodiging met betrekking tot de nieuwe beheerd
 Gebruikers moeten klikken **Aan de slag** in de e-mail om lid te worden van de organisatie. Als nieuwe beheerders de **Aan de slag** in de e-mailuitnodiging. Ze kunnen zich dan niet aanmelden bij de Admin Console.
 
 Als onderdeel van het aanmeldingsproces kunnen gebruikers worden gevraagd een Adobe-profiel in te stellen als ze dat nog niet hebben. Als gebruikers meerdere profielen hebben gekoppeld aan hun e-mailadres, moeten gebruikers **Deelnemen aan team** (indien gevraagd) en selecteer vervolgens het profiel dat is gekoppeld aan de nieuwe organisatie.
+
+![Bevestiging van beheerdersrechten](assets/admin-rights-confirmation.png)
+
+Voor meer details, [de beheerdersrol voor ondernemingen bewerken](admin-roles.md#add-enterprise-role) instructies in de documentatie met administratieve rollen. Merk op dat slechts een systeembeheerder voor uw organisatie deze rol kan toewijzen. Ga voor meer informatie over de beheershiërarchie naar de [administratieve taken](admin-roles.md) documentatie.
 
 ### Een ondersteuningsticket maken met Admin Console
 
