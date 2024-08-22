@@ -1,33 +1,34 @@
 ---
 keywords: Workfront-ondersteuning;verzenden, ondersteuningsticket;klantenondersteuning
 title: Overzicht Adobe Workfront-ondersteuning
-description: Adobe Workfront sluit zich aan bij Adobe Admin Console-Platform.
-source-git-commit: be82f76b3b7ce7ba38dea1b8e9816fedccd30e8f
+description: Adobe Workfront is lid van Adobe Admin Console Platform.
+exl-id: 00740005-270b-4ff7-afcb-4d5fa161cc32
+source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # Overzicht Adobe Workfront-ondersteuning
 
-Adobe Workfront sluit zich aan bij Adobe Admin Console-Platform.
+Adobe Workfront is lid van Adobe Admin Console Platform.
 
 In de komende maanden zullen klanten worden gecontacteerd om een migratie naar de Identiteit en Admin Console van de Adobe, een nog veiligere en functionele systeemadministratieve console te coördineren. Hier volgen enkele voordelen voor de komende wijziging:
 
-* Verifieer aan Workfront en andere producten door één enkele identiteit van Adobe te gebruiken.
+* Verifieer aan Workfront en andere producten door één enkele identiteit van de Adobe te gebruiken.
 * Gebruikersrechten afzonderlijk beheren tussen productie- en sandbox- of voorvertoningsomgevingen.
 * Gebruik meerdere SSO-configuraties voor Workfront-gebruikers.
-* Rechten op Workfront op dezelfde manier beheren als andere Adobe-producten.
+* Rechten op Workfront op dezelfde manier beheren als andere Adobe producten.
 
-Voor een diepgaande controle van de Identiteit van Adobe en Admin console, kunt u naar dit verwijzen [ondersteuningspagina](https://helpx.adobe.com/enterprise/admin-guide.html). Er is ook een vergelijking tussen de huidige Workfront-console en de nieuwe Adobe-console [hier](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&amp;_LANG=enus).
+Voor een diepgaande overzicht van de Identiteit van de Adobe en Admin console, kunt u deze [ steunpagina ](https://helpx.adobe.com/enterprise/admin-guide.html) van verwijzingen voorzien. Er is ook een vergelijking van huidige console van Workfront en nieuwe console van de Adobe [ hier ](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&amp;_LANG=enus).
 
 <!--
 New URL for July 27:
 https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
 -->
 
-Bovendien is er een veelgestelde vragen beschikbaar ter referentie [hier](faq.md).
+Bovendien, is er FAQ beschikbaar voor verwijzing [ hier ](faq.md).
 
 ## Migratiegegevens klant
 
