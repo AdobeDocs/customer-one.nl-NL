@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Workfront Admin Console-landingspagina
 
-Bereid aan op uw organisatie aan Adobe Admin Console voor [ migratie controle-lijst ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/admin-in-admin-console/prep-for-admin-console.html):
+Bereid aan op uw organisatie aan Adobe Admin Console voor [ migratie controle-lijst ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/admin-in-admin-console/prep-for-admin-console.html?lang=nl-NL):
 
 **migratie controle-lijst**
 
@@ -19,14 +19,14 @@ Bereid aan op uw organisatie aan Adobe Admin Console voor [ migratie controle-li
 
   Bevestig dat u Adobe Workfront wilt toevoegen aan uw huidige Adobe Admin Console als u al andere Adobe-producten hebt. Als u meer informatie nodig hebt, te gebruiken gelieve [ deze verbinding ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) om de beste praktijken te begrijpen voor het beheren van uw producten van de Adobe.
 
-* Gelieve te verwijzen naar de [ volgende verbinding ](https://helpx.adobe.com/enterprise/using/deployment-planning.html) voor hulp met uw plaatsing.
+* Gelieve te verwijzen naar de [ volgende verbinding ](https://helpx.adobe.com/nl/enterprise/using/deployment-planning.html) voor hulp met uw plaatsing.
 * Als u Single Sign On gebruikt, moet u de nieuwe Adobe Admin Console aansluiten op uw bestaande SSO-provider.
 * Zorg ervoor dat dubbele e-mailadressen worden verwijderd en dat alleen geldige e-mailadressen worden gebruikt.
 * Als u aangepaste API-integratie gebruikt, moet u controleren of deze gebruikers een geldig e-mailadres hebben waartoe zij toegang hebben.
 
-  Workfront adviseert het bijwerken van alle douaneintegratie om [ OAuth2 ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html) te gebruiken.
+  Workfront adviseert het bijwerken van alle douaneintegratie om [ OAuth2 ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html?lang=nl-NL) te gebruiken.
 
-Zodra u uw gevormde console hebt, te verwijzen gelieve naar deze verbinding om [ te zien hoe te om gebruikers ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html) binnen uw Adobe Admin Console te beheren.
+Zodra u uw gevormde console hebt, te verwijzen gelieve naar deze verbinding om [ te zien hoe te om gebruikers ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html?lang=nl-NL) binnen uw Adobe Admin Console te beheren.
 
 >[!TIP]
 >
