@@ -1,8 +1,8 @@
 ---
-title: Uw nieuwe ervaring voor klantenondersteuning van Adobe is beschikbaar - [!DNL-campagne] neem contact op met
-description: Uw nieuwe ervaring voor klantenondersteuning van Adobe is beschikbaar - [!DNL-campagne] neem contact op met
-seo-title: Uw nieuwe ervaring voor klantenondersteuning van Adobe is beschikbaar - [!DNL-campagne] neem contact op met
-seo-description: Uw nieuwe ervaring voor klantenondersteuning van Adobe is beschikbaar - [!DNL-campagne] neem contact op met
+title: Uw nieuwe ervaring voor klantenondersteuning van Adobe is beschikbaar - [!DNL -campagne] neem contact op met
+description: Uw nieuwe ervaring voor klantenondersteuning van Adobe is beschikbaar - [!DNL -campagne] neem contact op met
+seo-title: Uw nieuwe ervaring voor klantenondersteuning van Adobe is beschikbaar - [!DNL -campagne] neem contact op met
+seo-description: Uw nieuwe ervaring voor klantenondersteuning van Adobe is beschikbaar - [!DNL -campagne] neem contact op met
 translation-type: tm+mt
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: tm+mt
@@ -36,7 +36,7 @@ Als Admin van het Systeem, hebt u toegang tot [!DNL Adobe Admin Console Support 
 >
 >Door dit formulier in te vullen, zorgt het ervoor dat de juiste referenties worden toegewezen aan de aangewezen System Admin van uw organisatie en kunnen we meer details verstrekken om uw organisatie te helpen zich op de komende wijzigingen voor te bereiden.
 
-Er wordt een e-mailbevestiging verzonden na ontvangst van het [[!DNL-bevestigingsformulier voor systeembeheer]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
+Er wordt een e-mailbevestiging verzonden na ontvangst van het [[!DNL -bevestigingsformulier voor systeembeheer]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
 
 Neem voor vragen over deze e-mail contact met ons op via customercare@adobe.com.
 

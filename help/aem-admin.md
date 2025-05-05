@@ -38,7 +38,7 @@ Als Admin van het Systeem, hebt u toegang tot [!DNL Adobe Admin Console Support 
 >
 >Door dit formulier in te vullen, zorgt het ervoor dat de juiste referenties worden toegewezen aan de aangewezen systeembeheerder van uw organisatie.
 
-Er wordt een e-mailbevestiging verzonden na ontvangst van het [[!DNL-bevestigingsformulier voor systeembeheer]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6).
+Er wordt een e-mailbevestiging verzonden na ontvangst van het [[!DNL -bevestigingsformulier voor systeembeheer]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6).
 
 Neem voor vragen over deze e-mail contact met ons op via customercare@adobe.com.
 

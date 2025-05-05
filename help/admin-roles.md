@@ -27,7 +27,7 @@ De beheerhiërarchie kan worden gebruikt om aan de unieke vereisten van uw onder
 
 >[!NOTE]
 >
->De beheerhiërarchie is niet van toepassing op teamklanten. Teams klanten hebben één **Systeembeheerder** rol. De eigenaar van het contract (_voorheen **Primaire beheerder**_) is de systeembeheerder met toegang tot de contractdetails en de factureringsgeschiedenis. Als u de huidige contracteigenaar bent, kunt u een bestaande systeembeheerder aanwijzen (_ voorheen **secundaire beheerder**_) als de eigenaar van het contract.
+>De beheerhiërarchie is niet van toepassing op teamklanten. Teams klanten hebben één **Systeembeheerder** rol. De eigenaar van het contract (_voorheen **Primaire beheerder**&#x200B;_) is de systeembeheerder met toegang tot de contractdetails en de factureringsgeschiedenis. Als u de huidige contracteigenaar bent, kunt u een bestaande systeembeheerder aanwijzen (_ voorheen **secundaire beheerder**&#x200B;_) als de eigenaar van het contract.
 
 ![afbeelding beheren](assets/storage_admin.png)
 
