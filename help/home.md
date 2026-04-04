@@ -73,7 +73,7 @@ Voor meer details volg [&#x200B; onderneming admin instructies &#x200B;](admin-r
 
 >[!NOTE]
 >
-> Alvorens een steunkaartje voor te leggen, overweeg het controleren van het systeemprestaties, beschikbaarheid, en oplossingskwesties bij de [&#x200B; status van Adobe &#x200B;](https://status.adobe.com) plaats.
+> Alvorens een steunkaartje voor te leggen, overweeg het controleren van het systeemprestaties, beschikbaarheid, en oplossingskwesties bij de [&#x200B; status van Adobe &#x200B;](https://status.adobe.com/nl-nl) plaats.
 
 Het proces voor het indienen van ondersteuningszaken is nu direct geïntegreerd met het Experience League-ondersteuningsplatform. Dit is een zelfbedieningsportaal dat onlangs opnieuw werd ontworpen om meer verpersoonlijking en gebruiksgemak voor gerechtigde klanten aan te bieden.
 
