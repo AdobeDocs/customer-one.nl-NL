@@ -34,7 +34,7 @@ Systeembeheerders en beheerders van klantenondersteuning zien e-mailberichten di
 Bovendien zullen de Beheerders van het Systeem van de Steun kunnen:
 
 * Creeer/verwijder steungebruikers in het portaal en beheer toegangsrollen
-* Bekijk en valideer de supportgebruikers binnen uw organisatie voor nauwkeurigheid. (Voor instructies verwijs naar: [ het Leiden Gebruikers ](https://helpx.adobe.com/enterprise/using/users.html) en [ het Leiden uw rekeningen van Teams ](https://helpx.adobe.com/enterprise/using/accounts.html).)
+* Bekijk en valideer de supportgebruikers binnen uw organisatie voor nauwkeurigheid. (Voor instructies verwijs naar: [&#x200B; het Leiden Gebruikers &#x200B;](https://helpx.adobe.com/enterprise/using/users.html) en [&#x200B; het Leiden uw rekeningen van Teams &#x200B;](https://helpx.adobe.com/enterprise/using/accounts.html).)
 
 ## Wat u kunt verwachten
 

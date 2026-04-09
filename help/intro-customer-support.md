@@ -46,4 +46,4 @@ Systeembeheerders van support zullen fungeren als supergebruikers in de Admin Co
 * Adobe om de introductie van een nieuw systeem aan te kondigen
 * Klanten beginnen met het gebruik van het nieuwe systeem
 
-Voor vragen betreffende deze e-mail, gelieve ons in [ customercare@adobe.com ](mailto:customercare@adobe.com) te contacteren.
+Voor vragen betreffende deze e-mail, gelieve ons in [&#x200B; customercare@adobe.com &#x200B;](mailto:customercare@adobe.com) te contacteren.
